@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de portfólio! Sou um desenvolvedor em ascensão, 
 
 ## 🔗 Link para o Portfólio Online
 Clique no link abaixo para ver o site em funcionamento:
-👉 **[VISUALIZAR MEU PORTFÓLIO](https://Herynelson.github.io/meu-portfólio)**
+👉 **[VISUALIZAR MEU PORTFÓLIO](https://Herynelson.github.io/meu-portfólio/index.html)**
 
 ## 💻 Meus Projetos Principais
 Abaixo estão os links diretos para os códigos e demonstrações dos projetos destacados no meu portfólio:
