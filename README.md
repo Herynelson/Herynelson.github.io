@@ -1,26 +1,40 @@
-# 🚀 Portfólio de Herynelson Soares
+# 🚀 Portfólio Profissional | Herynelson Soares
 
-Bem-vindo ao meu portfólio oficial! Este projeto reúne meus estudos, projetos e experiências na área de Desenvolvimento Web e Análise de Sistemas.
+Bem-vindo ao meu repositório de portfólio! Sou um desenvolvedor em ascensão, focado em criar soluções web modernas e funcionais. Este espaço foi criado para centralizar meus projetos, habilidades e trajetória na área de tecnologia.
 
-## 🔗 Acesse o site
-👉 [Clique aqui para visualizar o Portfólio Online](https://Herynelson.github.io/hery.github.io/)
-
-## 🛠 Tecnologias Utilizadas
-Este portfólio foi construído utilizando:
-* **HTML5** (Estrutura semântica)
-* **CSS3** (Estilização personalizada)
-* **Bootstrap 4** (Responsividade e Grid System)
-* **JavaScript** (Interatividade básica)
-
-## 📌 Seções do Projeto
-1.  **Sobre:** Minha trajetória acadêmica e profissional.
-2.  **Habilidades:** Ícones das tecnologias que domino (Java, PHP, C#, etc).
-3.  **Projetos:** Galeria com meus trabalhos recentes.
-4.  **Contato:** Formulário direto e links para LinkedIn/GitHub.
-
-## 📬 Contato
-* **LinkedIn:** [Herynelson Soares](https://www.linkedin.com/in/herynelson-soares-241779169/)
-* **Email:** herysoares644@gmail.com
+## 🔗 Link para o Portfólio Online
+Clique no link abaixo para ver o site em funcionamento:
+👉 **[VISUALIZAR MEU PORTFÓLIO](https://herynelson.github.io/hery.github.io/)**
+*(Nota: Se você renomeou o repositório como sugeri antes, o link será https://herynelson.github.io/)*
 
 ---
-*Desenvolvido por Herynelson Soares © 2025*
+
+## 💻 Meus Projetos Principais
+Abaixo estão os links diretos para os códigos e demonstrações dos projetos destacados no meu portfólio:
+
+* **🎵 Clone Spotify:** [Acessar Projeto](projetos/Spotify.html) - Interface responsiva inspirada no player de música.
+* **🎸 Arctic Monkeys Fan Page:** [Acessar Projeto](projetos/AM.html) - Landing page dedicada à banda.
+* **🛒 Loja do Cabuloso:** [Acessar Projeto](projetos/Loja%20Cabuloso.html) - Protótipo de e-commerce esportivo.
+* **📲 Gerador de QR Code:** [Acessar Projeto](projetos/QrCode.html) - Ferramenta prática para geração de códigos.
+
+---
+
+## 🛠️ Habilidades e Tecnologias
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+- **LinkedIn:** [Herynelson Soares](https://www.linkedin.com/in/herynelson-soares-241779169/)
+- **E-mail:** herysoares644@gmail.com
+- **Cidade:** Belo Horizonte, MG
+
+---
+*Este repositório é atualizado constantemente com novos aprendizados.*
